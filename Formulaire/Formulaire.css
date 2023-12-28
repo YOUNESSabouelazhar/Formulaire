@@ -1,0 +1,30 @@
+.tous{position:absolute; top:78%; left:50%; transform:translate(-50%,-50%)}
+.un{text-align:left; max-width:500px; width:100%; padding:20px; border:3px solid#25628a}
+.form-section{display:flex; justify-content:space-between; margin-bottom:10px}
+.form-section label{flex:1; margin-right:120px}
+.form-section input{flex:2}
+.submit-section {display:flex; justify-content:space-between}input[type="submit"],input[type="reset"]{width:30%} 
+.deux{text-align:left; max-width:500px; width:100%; padding:20px; border:3px solid#25628a; border-top:30px; border-bottom:30px}
+.form-section2{margin-bottom:15px; margin-left:40px}
+.form-section2 fieldset{color:black; border:2pxsolid #25628a; margin-right:5%}
+.form-section2 legend{color:black; font-weight:bold}
+.form-section2 label {margin-bottom: 3px}
+.form-section2 input[type="text"],
+.form-section2 input[type="email"],
+.form-section2 input[type="tel"] {box-sizing: border-box}
+.contact-methods2{display:flex; align-items:center; margin-bottom:5px; margin-left:70px}
+.contact-method2{margin-right:10px; display:flex}
+.contact-method2 label{margin-left:10px}
+.submit-section2{display:flex; justify-content:space-between; margin-left:155px}
+input[type="submit"] {width:30%} 
+.trois{text-align:left; max-width:500px; width:100%; padding:20px; border:3px solid#25628a; border-bottom:30px}
+.t3{padding-left:40px}
+.form-section3{display:flex; justify-content:space-between; margin-bottom:10px}
+.form-section3 label{flex:1; margin-right:120px}
+.form-section3 input{flex:2}
+.quatre{text-align:left; max-width:500px; width:100%; padding:20px; border:3px solid#25628a}
+.t4{padding-left:190px}
+.form-section4{display:flex; justify-content:space-between; margin-bottom:10px}
+#formulaire{max-width:500px; width: 100%}
+textarea{width:100%; height:150px; resize:vertical}
+.submit-section4{display:flex; justify-content:space-between; margin-left:200px}input[type="submit"]{width:30%}
